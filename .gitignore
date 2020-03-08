@@ -1,0 +1,5 @@
+.env
+data
+Clean-Data.ps1
+Set-LicenseEnvironmentVariable.ps1
+docker-compose.yml
